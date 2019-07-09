@@ -1,1 +1,1 @@
-# symbol-paatern
+# repository
