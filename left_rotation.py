@@ -1,7 +1,8 @@
 #Left Array-Rotating 
 #Python
 a=[1,2,3,4,5]
-b=a[:2]# no.of.rotation
-c=a[2:]
+m=2 # no.of.rotation
+b=a[:m]
+c=a[m:]
 a=c+b
 print (a)
