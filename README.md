@@ -1,2 +1,2 @@
 # task
-My solutions for the coding tasks.
+This repository consists of my solutions for the coding tasks.
