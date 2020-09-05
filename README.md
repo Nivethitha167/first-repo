@@ -1,2 +1,2 @@
 # task
-My solutions for the tasks given in college.
+My solutions for the coding tasks.
